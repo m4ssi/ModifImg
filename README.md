@@ -1,6 +1,6 @@
 # Mini Projet CUDA
 
-Utilisation de nVidia CUDA pour faire du traîtement d'image.
+Utilisation de nVidia CUDA pour faire du traîtement sur image.
 
 ## Effets implémentés
 
